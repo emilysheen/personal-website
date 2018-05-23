@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Statistics",
+    "Spatial Statistics",
     "Epidemiology and Public Health",
     "Social Sciences"
   ]
@@ -22,19 +23,17 @@ weight = 5
   year = 2022
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BSc in Mathematics"
+  institution = "The University of Arizona"
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BBA in Business Economics"
+  institution = "The University of Arizona"
+  year = 2016
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Emily Sheen is a second year PhD student in Statistics at Penn State University. Her research interests include spatial statistics, epidemiology, social sciences applications, and Bayesian statistics. Her personal interests include roller skating, ice skating, and volleyball.
