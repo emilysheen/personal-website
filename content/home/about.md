@@ -13,7 +13,8 @@ weight = 5
     "Statistics",
     "Spatial Statistics",
     "Epidemiology and Public Health",
-    "Social Sciences"
+    "Machine Learning",
+    "Bayesian Statistics"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -28,7 +29,7 @@ weight = 5
   year = 2016
 
 [[education.courses]]
-  course = "BBA in Business Economics"
+  course = "BSBA in Business Economics"
   institution = "The University of Arizona"
   year = 2016
  
@@ -36,4 +37,4 @@ weight = 5
 
 # Biography
 
-Emily Sheen is a second year PhD student in Statistics at Penn State University. Her research interests include spatial statistics, epidemiology, social sciences applications, and Bayesian statistics. Her personal interests include roller skating, ice skating, and volleyball.
+Emily Sheen is a second year PhD student in Statistics at Penn State University. Her research interests include spatial statistics, epidemiology, machine learning, feature screening, and Bayesian statistics. Her personal interests include roller skating, ice skating, and volleyball.
