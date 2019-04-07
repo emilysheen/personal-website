@@ -11,26 +11,27 @@ weight = 5
 [interests]
   interests = [
     "Statistics",
-    "Spatial Statistics",
-    "Epidemiology and Public Health",
+    "Economics",
+    "Bayesian Statistics",
     "Machine Learning",
-    "Bayesian Statistics"
+    "R",
+    "Python"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Statistics"
-  institution = "The Pennsylvania State University"
-  year = 2022
+  course = "MS in Statistics"
+  institution = "Penn State University"
+  year = 2019
 
 [[education.courses]]
-  course = "BSc in Mathematics"
-  institution = "The University of Arizona"
+  course = "BS in Mathematics"
+  institution = "University of Arizona"
   year = 2016
 
 [[education.courses]]
   course = "BSBA in Business Economics"
-  institution = "The University of Arizona"
+  institution = "University of Arizona"
   year = 2016
  
 +++
